@@ -1,0 +1,86 @@
+Google
+Apple
+Amazon
+Microsoft
+Tencent
+Facebook
+Visa
+McDonalds
+Alibaba
+IBM
+Verizon
+Marlboro
+Coca Cola
+Mastercard
+UPS
+SAP
+Wells Fargo
+Disney
+ICBC
+Starbucks
+Xfinity
+Deutsche Telekom
+Louis Vuitton
+Spectrum
+GE
+Nike
+PayPal
+Walmart
+Accenture
+Samsung
+Moutai
+American Express
+Toyota
+Vodafone
+Intel
+Budweiser
+Baidu
+Zara
+Ping An
+Oracle
+Mercedes Benz
+BMW
+Huawei
+HSBC
+YouTube
+RBC
+Movistar
+Gucci
+NTT
+FedEx
+Cisco
+Citi
+Netflix
+DHL
+Shell
+Pampers
+Orange
+TD
+Chase
+Subway
+Colgate
+Costco
+J P Morgan
+ExxonMobil
+Adobe
+IKEA
+Salesforce
+China Life
+Uber
+Siemens
+LinkedIn
+Gillette
+AIA
+KFC
+Ebay
+HP
+SF Express
+Instagram
+ANZ
+ALDI
+BT
+Ford
+Honda
+Pepsi
+BCA
+Adidas

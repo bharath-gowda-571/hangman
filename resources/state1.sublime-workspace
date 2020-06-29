@@ -1,0 +1,306 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"T",
+				"TextField\ttype ⟠"
+			],
+			[
+				"Htt",
+				"HttpResponse\ttype ⟠"
+			],
+			[
+				"des",
+				"destroyAllWindows()\tfunction ⟠"
+			],
+			[
+				"wa",
+				"waitKey(…)\tfunction ⟠"
+			],
+			[
+				"plate_",
+				"plate_img\tunion ⟠"
+			],
+			[
+				"find_element_by_c",
+				"find_element_by_class_name\tfunction ⟠"
+			],
+			[
+				"age",
+				"age_in_days\t⟠"
+			],
+			[
+				"a",
+				"age_in_years\t⟠"
+			],
+			[
+				"mont",
+				"Months"
+			],
+			[
+				"da",
+				"date_selected\t⟠"
+			],
+			[
+				"Q",
+				"QtCore\tmodule ⟠"
+			],
+			[
+				"sele",
+				"setSelectedDate"
+			],
+			[
+				"cale",
+				"calendar"
+			],
+			[
+				"cal",
+				"calculate_age"
+			],
+			[
+				"P",
+				"PyQt5"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"img",
+				"imgCropped"
+			],
+			[
+				"msg",
+				"msglen"
+			],
+			[
+				"cl",
+				"clientsocket"
+			],
+			[
+				"bin",
+				"bina"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/bharath/Python/django_tut/django_tut/django_tut/settings.py",
+		"/home/bharath/Python/django_tut/django_tut/django_tut/urls.py",
+		"/home/bharath/Python/django_tut/django_tut/polls/urls.py",
+		"/home/bharath/Python/youtube-videodownload.py",
+		"/home/bharath/Python/youtube-videodownload2.py",
+		"/home/bharath/Python/car-license-plate/car_plate_detect.py",
+		"/home/bharath/Python/PyQt5/first.py",
+		"/home/bharath/snap/firefox/common/Downloads/geckodriver-v0.26.0-linux64/geckodriver",
+		"/home/bharath/Python/PyQt5/age-calculator.",
+		"/home/bharath/Python/PyQt5/untitled.",
+		"/home/bharath/Python/PyQt5/untitled.py",
+		"/home/bharath/Python/PyQt5-tut/first.py",
+		"/home/bharath/Python/calender-wid.py",
+		"/home/bharath/Python/pygame/test.py",
+		"/home/bharath/Python/pygame/first.py",
+		"/home/bharath/Python/check-version.py",
+		"/tmp/kite_tutorial.py",
+		"/home/bharath/Python/pygame/changing_stuff.py",
+		"/home/bharath/Tic-Tac-Toe/Tic-Tac-Toe.c",
+		"/home/bharath/winBig.py",
+		"/home/bharath/cards.py",
+		"/home/bharath/Python/2048/game.py",
+		"/home/bharath/winBigpy",
+		"/home/bharath/something.c",
+		"/home/bharath/Python/Tic-Tac-Toe/main.py",
+		"/home/bharath/Motion-Detect-Bot/main.py",
+		"/home/bharath/test.py",
+		"/home/bharath/Python/pygame/pygame",
+		"/home/bharath/Python/pygame/pygame.py",
+		"/home/bharath/Python/initializing",
+		"/home/bharath/Python/screen",
+		"/home/bharath/princess.py",
+		"/home/bharath/CompetitiveProgramming/encryption.py",
+		"/home/bharath/CompetitiveProgramming/monk_welcome.cpp",
+		"/home/bharath/CompetitiveProgramming/binary_queris.cpp",
+		"/home/bharath/CompetitiveProgramming/array_reverse.cpp",
+		"/home/bharath/CompetitiveProgramming/binary_queries.py",
+		"/home/bharath/CompetitiveProgramming/binary_queries.cpp",
+		"/home/bharath/CompetitiveProgramming/binary_queries",
+		"/home/bharath/Python/OpenCV/reading_img.py",
+		"/home/bharath/Python/OpenCV/size.py",
+		"/home/bharath/Python/OpenCV/sizes_and_shapes.py",
+		"/home/bharath/Python/OpenCV/wrap_perps.py",
+		"/home/bharath/bin_search.py",
+		"/home/bharath/Python/OPencv/reading_img.py",
+		"/home/bharath/MachineLearning/begin.py",
+		"/home/bharath/Python/kickstart/team.py",
+		"/home/bharath/Python/worldcup.py",
+		"/home/bharath/Python/array_manip.py",
+		"/home/bharath/Python/sum.py",
+		"/home/bharath/Python/salvation.py",
+		"/home/bharath/Python/shopping.py",
+		"/home/bharath/Python/test.py",
+		"/home/bharath/Python/server.py",
+		"/home/bharath/Python/client.py",
+		"/home/bharath/Python/recursion.py",
+		"/home/bharath/frst_char.py",
+		"/doormat.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "state1.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 577.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
